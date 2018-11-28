@@ -18,7 +18,7 @@ Es este repositorio se documentara los conocimeintos que se adquieran en hardwar
   
   27/11/2018
   
-  Imagen de entradas y salidas de la pplaca witty cloud
+  Imagen de entradas y salidas de la placa witty cloud
   
-![Screenshot](witty-cloud.jpg) 
+  ![Screenshot](witty-cloud.jpg) 
 
