@@ -20,4 +20,5 @@ Es este repositorio se documentara los conocimeintos que se adquieran en hardwar
   
   Imagen de entradas y salidas de la pplaca witty cloud
   
-<img src="/ocazo/ESP2286-Arduino/blob/master/witty-cloud.jpg" alt="My cool logo"/>
+![Screenshot](witty-cloud.jpg) 
+
