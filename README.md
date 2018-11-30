@@ -24,7 +24,7 @@ Es este repositorio se documentara los conocimeintos que se adquieran en hardwar
 
 28/11/2018
 
-La placa incorpora el led RGB WS2812. El segundo proyecto consiste en hacer que el led encienda y apagague cada uno de los colores.
+La placa incorpora el led RGB WS2812. El segundo proyecto consiste en hacer que el led encienda y apagague cada uno de los colores: Rojo, Verde y Azul cada luz estara encendida medio segundo la serie se repetira 5 veces. 
 
 29/11/2018
 
