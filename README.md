@@ -1,5 +1,4 @@
-
-2# ESP2286-Arduino
+l2# ESP2286-Arduino
 
 Es este repositorio se documentara los conocimeintos que se adquieran en hardware y software de esp8266 y arduino.
 
