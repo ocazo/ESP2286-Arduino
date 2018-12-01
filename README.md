@@ -1,3 +1,4 @@
+
 2# ESP2286-Arduino
 
 Es este repositorio se documentara los conocimeintos que se adquieran en hardware y software de esp8266 y arduino.
@@ -24,9 +25,12 @@ Es este repositorio se documentara los conocimeintos que se adquieran en hardwar
 
 28/11/2018
 
+Parte del código fue consultado en https://github.com/pythoncanarias/upython#pinout-del-nodemcu
+
 La placa incorpora el led RGB WS2812. El segundo proyecto consiste en hacer que el led encienda y apagague cada uno de los colores: Rojo, Verde y Azul cada luz estara encendida medio segundo la serie se repetira 5 veces. 
 
 29/11/2018
 
+La placa también incorpora un botón. EL tercer proyecto consiste en encender y apagar el led verde utilizando el boton incoporado de la placa.
 
 30/11/2018
