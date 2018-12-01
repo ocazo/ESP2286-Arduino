@@ -32,6 +32,8 @@ La placa incorpora el led RGB WS2812. El segundo proyecto consiste en hacer que 
 
 Parte de código fue consultado en https://learn.adafruit.com/micropython-hardware-digital-i-slash-o/overview
 
-La placa también incorpora un botón. EL tercer proyecto consiste en encender y apagar el led verde utilizando el boton incoporado de la placa.
+La placa incorpora un botón. EL tercer proyecto consiste en encender y apagar el led verde utilizando el boton incorporado de la placa.
 
 30/11/2018
+
+La placa incorpora un fotoresitor. El cuarto proyecto consiste en utlizar la fotorressitencia y de acuerdo a ello que el led brille mas o menos.
