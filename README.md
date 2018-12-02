@@ -47,4 +47,4 @@ La placa incorpora un botón. EL tercer proyecto consiste en encender y apagar e
 30/11/2018
 
 Entrada Analógica - Salida Analógica
-La placa incorpora un fotoresitor. El cuarto proyecto consiste en utlizar la fotorressitencia y de acuerdo a ello que el led brille mas o menos.
+La placa incorpora un fotoresitor. El cuarto proyecto consiste en utlizar la fotoresistencia y de acuerdo a ello que el led incorporado verde brille mas o menos.
