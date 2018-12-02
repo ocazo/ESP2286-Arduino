@@ -47,4 +47,7 @@ La placa incorpora un botón. EL tercer proyecto consiste en encender y apagar e
 Cuarto proyecto
 
 Entrada Analógica - Salida Analógica
+
+El código fue consultado en https://github.com/pythoncanarias/upython
+
 La placa incorpora un fotoresitor. El cuarto proyecto consiste en utlizar la fotoresistencia y de acuerdo a ello que el led incorporado verde brille mas o menos.
