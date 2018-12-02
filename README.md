@@ -32,19 +32,19 @@ Es este repositorio se documentara los conocimeintos que se adquieran en hardwar
 
 Tomado de: https://espofthings.wordpress.com/2017/12/07/como-configurar-witty-cloud-board-esp8266-y-testear-perifericos/
 
-28/11/2018
+Segundo proyecto
 
 Parte del código fue consultado en https://github.com/pythoncanarias/upython#pinout-del-nodemcu
 
 La placa incorpora el led RGB WS2812. El segundo proyecto consiste en hacer que el led encienda y apagague cada uno de los colores: Rojo, Verde y Azul cada luz estara encendida medio segundo la serie se repetira 5 veces. 
 
-29/11/2018
+Tercer proyecto
 
 Parte de código fue consultado en https://learn.adafruit.com/micropython-hardware-digital-i-slash-o/overview
 
 La placa incorpora un botón. EL tercer proyecto consiste en encender y apagar el led verde utilizando el boton incorporado de la placa.
 
-30/11/2018
+Cuarto proyecto
 
 Entrada Analógica - Salida Analógica
 La placa incorpora un fotoresitor. El cuarto proyecto consiste en utlizar la fotoresistencia y de acuerdo a ello que el led incorporado verde brille mas o menos.
