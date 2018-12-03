@@ -1,3 +1,5 @@
+import machine
+import time
 button = machine.Pin(4, machine.Pin.IN, machine.Pin.PULL_UP)
 pin = machine.Pin(12, machine.Pin.OUT)
 while True:
