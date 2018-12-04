@@ -1,18 +1,18 @@
-import machine
+from machine import Pin
 import time
-vuelta = 1
-while vuelta < 6:  
-  print("Vuelta " +str(vuelta))
-  vuelta = vuelta + 1
-  ledR.on()
-  time.sleep(0.5)
-  ledR.off()
-  time.sleep(0.5)
-  ledG.on()
-  time.sleep(0.5)
-  ledG.off()
-  time.sleep(0.5)
-  ledB.on()
-  time.sleep(0.5)
-  ledB.off()
-  time.sleep(0.5)
+ledR=Pin(15,Pin.OUT)  # Rojo
+ledG=Pin(12,Pin.OUT)  # Verde
+ledB=Pin(13,Pin.OUT)  # Azul
+while True:
+    ledR.on()
+    time.sleep(0.1)
+    ledR.off()
+    time.sleep(0.1)
+	ledG.on()
+    time.sleep(0.1)
+    ledG.off()
+    time.sleep(0.1)
+	ledB.on()
+    time.sleep(0.1)
+    ledB.off()
+    time.sleep(0.1)
