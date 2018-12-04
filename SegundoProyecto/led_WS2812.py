@@ -1,3 +1,5 @@
+import machine
+import time
 vuelta = 1
 while vuelta < 6:  
   print("Vuelta " +str(vuelta))
